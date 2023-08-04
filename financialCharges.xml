@@ -1,0 +1,15 @@
+
+<financialCharges>
+<financialCharge>
+<guestName>John Doe</guestName>
+<charge>500</charge>
+<totalAmount>1200</totalAmount>
+<balance>700</balance>
+</financialCharge>
+<financialCharge>
+<guestName>Jane Smith</guestName>
+<charge>600</charge>
+<totalAmount>1800</totalAmount>
+<balance>1200</balance>
+</financialCharge>
+</financialCharges>

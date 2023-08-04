@@ -1,0 +1,16 @@
+
+<financialPostings>
+<financialPosting>
+<transactionType>Room Charge</transactionType>
+<amounts>
+<amount>400</amount>
+<amount>600</amount>
+</amounts>
+</financialPosting>
+<financialPosting>
+<transactionType>Dining Charge</transactionType>
+<amounts>
+<amount>100</amount>
+</amounts>
+</financialPosting>
+</financialPostings>
